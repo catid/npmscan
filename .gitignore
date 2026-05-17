@@ -52,6 +52,7 @@ flash-moe/metal_infer/*.dSYM/
 .beads/embeddeddolt/
 .beads/export-state/
 .beads/export-state.json
+.beads/backup/
 .beads/.sync.lock
 .beads/sync_base.jsonl
 .beads/sem/
