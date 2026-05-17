@@ -3,3 +3,5 @@
 {"id":"int-761ad03c","kind":"field_change","created_at":"2026-05-17T19:00:40.736273157Z","actor":"Chris Taylor","issue_id":"glm51-rjo","extra":{"field":"status","new_value":"blocked","old_value":"open"}}
 {"id":"int-56142e89","kind":"field_change","created_at":"2026-05-17T19:29:20.984031181Z","actor":"Chris Taylor","issue_id":"glm51-rjo","extra":{"field":"status","new_value":"in_progress","old_value":"blocked"}}
 {"id":"int-f1b011c5","kind":"field_change","created_at":"2026-05-17T19:29:30.202228663Z","actor":"Chris Taylor","issue_id":"glm51-rjo","extra":{"field":"status","new_value":"closed","old_value":"in_progress","reason":"Closed"}}
+{"id":"int-6f45962d","kind":"field_change","created_at":"2026-05-17T19:31:48.673831151Z","actor":"Chris Taylor","issue_id":"glm51-x30","extra":{"field":"status","new_value":"in_progress","old_value":"open"}}
+{"id":"int-9bd4f74e","kind":"field_change","created_at":"2026-05-17T19:32:35.342556785Z","actor":"Chris Taylor","issue_id":"glm51-x30","extra":{"field":"status","new_value":"closed","old_value":"in_progress","reason":"Closed"}}
