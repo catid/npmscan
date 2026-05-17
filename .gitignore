@@ -1,0 +1,57 @@
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.cert
+*.crt
+*credentials*
+*secrets*
+
+# Python/editor caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+*.swp
+*.swo
+
+# Generated outputs and runtime state
+results/
+runtime/
+.tmp/
+*.log
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+
+# Model/checkpoint artifacts
+models/
+*.gguf
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Nested project build outputs
+llama.cpp/build/
+flash-moe/metal_infer/*.dSYM/
+
+# bd local runtime state; JSONL/config metadata remains shareable
+.beads/.jsonl.lock
+.beads/last-touched
+.beads/.local_version
+.beads/embeddeddolt/
+.beads/export-state/
+.beads/export-state.json
+.beads/.sync.lock
+.beads/sync_base.jsonl
+.beads/sem/

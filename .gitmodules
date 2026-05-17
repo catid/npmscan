@@ -1,0 +1,9 @@
+[submodule "llama.cpp"]
+	path = llama.cpp
+	url = https://github.com/ggml-org/llama.cpp.git
+	ignore = dirty
+
+[submodule "flash-moe"]
+	path = flash-moe
+	url = https://github.com/danveloper/flash-moe.git
+	ignore = dirty
